@@ -14,13 +14,13 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:theme="@style/Theme.Bacon.PopupOverlay"/>
+            android:theme="@style/Theme.Bacon.PopupOverlay" />
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingBottom="4dp"
             android:contentDescription="@string/app_name"
+            android:paddingBottom="4dp"
             android:src="@drawable/logo" />
     </android.support.design.widget.AppBarLayout>
 

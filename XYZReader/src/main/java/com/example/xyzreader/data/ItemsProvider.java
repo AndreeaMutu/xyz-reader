@@ -1,6 +1,7 @@
 
 package com.example.xyzreader.data;
 
+
 import android.content.ContentProvider;
 import android.content.ContentProviderOperation;
 import android.content.ContentProviderResult;
