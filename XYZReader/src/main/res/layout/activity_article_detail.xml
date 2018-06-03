@@ -8,8 +8,8 @@
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
         android:layout_width="match_parent"
-        android:elevation="8dp"
-        android:layout_height="250dp">
+        android:elevation="@dimen/toolbar_elevation"
+        android:layout_height="@dimen/detail_app_bar_height">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar_layout"
